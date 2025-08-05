@@ -1,0 +1,3 @@
+{
+    "typescript": "tsc $fileName && node  $fileNameWithoutExt.js "
+}

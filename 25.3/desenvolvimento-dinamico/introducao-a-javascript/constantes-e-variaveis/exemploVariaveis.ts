@@ -5,10 +5,10 @@ const externo = "Ola, mundo!";
 // Declaração de uma variável usando var
 
 function exemploVar() {
-    if (true) {
-        var mensagem: "Ola, mundo! Eu sou uma var";
-    }
-    console.log(mensagem);
+  if (true) {
+    var mensagem: "Ola, mundo! Eu sou uma var";
+  }
+  console.log(mensagem);
 }
 
 // Chamando a função exemploVar
@@ -17,19 +17,16 @@ exemploVar();
 
 // Exemplo de erro e correção
 
-var mensagem: "Ola, eu sou o exemplo de uma var global - Escopo Externo";
-console.log(mensagem);
+//var mensagem: "Ola, eu sou o exemplo de uma var global - Escopo Externo";
+//console.log(mensagem);
 
 // Declaração de uma variável utilizando let
 
 function exemploLet() {
-
-    if (true) {
-
-        let mensagem: "Ola, eu sou uma let";
-        console.log(mensagem);
-        
-    }
+  if (true) {
+    let mensagem: "Ola, eu sou uma let";
+    console.log(mensagem);
+  }
 }
 
 // Chamando a função exemploLet
@@ -44,10 +41,8 @@ console.log(mensagem2);
 // Declaração de uma constante usando const
 
 function exemploConst() {
-    
   const mensagem = "Olá, eu sou uma constante";
   console.log(mensagem);
-    
 }
 
 // Chamando a função exemploConst
@@ -60,11 +55,13 @@ console.log(externo);
 
 //Exemplo externo - tentar alterar constante global
 
-    //externo = "Nova mensagem";
-    //console.log();
+//externo = "Nova mensagem";
+//console.log();
 
-// Demonstrando o escopo global de var
 
-// Demonstrando o escopo de bloco de let
+// Chamada de função para exemplificação
+//let resultadoSoma = somar(40, 2);
+//console.log(resultadoSoma); // Exibe 42
 
-// Exemplo de escopo inacessível
+//let resultadoSubtração = subtrair(10, 4);
+//console.log(resultadoSubtração); // Exibe 6
