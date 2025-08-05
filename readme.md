@@ -1,7 +1,5 @@
 # Meus Estudos em Engenharia de Software | Gabriel Luizon
 
-![Cabeçalho Repositório GitHub Educação Engenharia de Software Verde e Preto](https://github.com/user-attachments/assets/c5c8f6f2-1a61-464a-a111-c91834fd37a9)
-
 ## 👋 Olá, eu sou o Gabriel Luizon!
 
 Bem-vindo ao meu repositório de estudos e projetos da graduação em **Engenharia de Software**. Tenho 32 anos e iniciei minha jornada acadêmica no terceiro trimestre de 2025, na [Faculdade Descomplica (UniAmérica)](https://descomplica.com.br/faculdade/). A previsão de conclusão do curso é em 2029.
